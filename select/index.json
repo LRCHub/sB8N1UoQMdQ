@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "出逢った頃のように",
+  "base_artist": "高木さん(CV:高橋李依)",
+  "createdAt": "2026-02-12T22:45:22.812264Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/01_出逢った頃のように_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/02_出逢った頃のように_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "出逢った頃のように (Pop Remix)",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/03_出逢った頃のように_(Pop_Remix)_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/04_出逢った頃のように_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "REVIVE 'EM ALL",
+      "has_synced": true,
+      "path": "select/05_出逢った頃のように_REVIVE_'EM_ALL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "高橋李依",
+      "has_synced": true,
+      "path": "select/06_出逢った頃のように_高橋李依.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/07_出逢った頃のように_Every_Little_Thing.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "高木さん(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/08_出逢った頃のように_高木さん(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "出逢った頃のように - Deattakoronoyouni",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/09_出逢った頃のように_-_Deattakoronoyouni_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": true,
+      "path": "select/10_出逢った頃のように_高木さん_(高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/11_出逢った頃のように_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/12_出逢った頃のように_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "出逢った頃のように (Hybrid remix)",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/13_出逢った頃のように_(Hybrid_remix)_Every_Little_Thing.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "出逢った頃のように",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/14_出逢った頃のように_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "出逢った頃のように (Hybrid Remix)",
+      "artist": "エヴリ・リトル・シング Every Little Thing",
+      "has_synced": false,
+      "path": "select/15_出逢った頃のように_(Hybrid_Remix)_エヴリ・リトル・シング_Every_Little_Thing.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "出逢った頃のように (Pop Remix)",
+      "artist": "エヴリ・リトル・シング Every Little Thing",
+      "has_synced": false,
+      "path": "select/16_出逢った頃のように_(Pop_Remix)_エヴリ・リトル・シング_Every_Little_Thing.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "8 出逢った頃のように",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/17_8_出逢った頃のように_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "出逢った頃のように",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/pl_01_出逢った頃のように_高木さん(CV_高橋李依).txt"
+    }
+  ]
+}
